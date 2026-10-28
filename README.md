@@ -7,6 +7,6 @@
 - [lab2_latex/lab2_presentation.pdf](lab2_latex/lab2_presentation.pdf) — презентация.
 - `lab2_latex/lab2_presentation.tex` и `lab2_latex/figures/` — исходники LaTeX;
 - `lab2_analysis.py`, `lab2_report.py`, `oscillators.py` — код, необходимый ноутбуку.
-- `data/invar_datasets.zip` — исходные данные для запуска без интернета.
-- `lab2_results/` — результаты и диагностика; нужны также для пересборки презентации.
+- `data/invar_datasets.zip` — исходные данные.
+- `lab2_results/` — результаты и диагностика;
 - `test_lab2_analysis.py` — проверки SMC и анализа.
